@@ -322,7 +322,7 @@ Si no dispone de mucho tiempo:
 
 Si tiene más tiempo (Yo quiero este libro):
 
-- [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
+- [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/) [(link al pdf)](https://github.com/Seanforfun/Books/blob/master/Computer/Computer%20Architecture%20-%20A%20Quantitative%20Approach%20(Fifth%20Edition).pdf)
     - Para un tratamiento más rico y actualizado (2011), pero un trato más largo.
 
 ### Específicos del lenguaje
