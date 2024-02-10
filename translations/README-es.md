@@ -292,7 +292,7 @@ Esta es una lista más corta que la que yo usé. Está abreviada para ahorrarle 
     - Respuestas en C++ y Java
     - Este es un buen calentamiento para Cracking the Coding Interview
     - No muy difícil. Muchos problemas pueden ser más sencillos de los que verá en la entrevista (Por lo que he leído)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/) [(link al pdf)](https://github.com/Avinash987/Coding/blob/049827fd356ce9184f770f12a478e49054f1aa2d/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
     - Respuestas en Java
 
 Si dispone de mucho tiempo adicional:
