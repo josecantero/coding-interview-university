@@ -279,7 +279,7 @@ Lee más acerca de opciones:
 - http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
 
-[Vea recursos de programas aquí](translations/programming-languaje-resourses)
+[Vea recursos de programas aquí](programming-languaje-resourses)
 
 Verá algunos materiales de aprendizaje de C, C++ y Python abajo, porque estoy aprendiendo. Hay algunos libros involucrados, ve al final.
 
