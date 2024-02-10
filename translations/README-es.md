@@ -288,7 +288,7 @@ Verá algunos materiales de aprendizaje de C, C++ y Python abajo, porque estoy a
 Esta es una lista más corta que la que yo usé. Está abreviada para ahorrarle tiempo.
 
 ### Preparación para la entrevista
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html) [link al pdf](http://taltos.pha.jhu.edu/~gupchup/tmp/app/material/programming-interviews-exposed.pdf)
     - Respuestas en C++ y Java
     - Este es un buen calentamiento para Cracking the Coding Interview
     - No muy difícil. Muchos problemas pueden ser más sencillos de los que verá en la entrevista (Por lo que he leído)
