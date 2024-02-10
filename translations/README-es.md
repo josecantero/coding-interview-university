@@ -306,7 +306,7 @@ Si dispone de mucho tiempo adicional:
 
 Si no dispone de mucho tiempo:
 
-- [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
+- [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038) [(link al pdf)](https://github.com/quyenly13/books/blob/master/Coding/Randall%20Hyde%20-%20Write%20Great%20Code%20-%20Volume%201%20-%20Understanding%20the%20Machine.pdf)
     - El libro fue publicado en 2004 y es algo anticuado, pero es un recurso fantástico para la comprensión de una computadora en breve.
     - El autor inventó HLA, por lo que tiene muchas menciones y ejemplos en HLA. No es ampliamente utilizado, pero los ejemplos son decentes para ver cómo es un lenguaje ensamblador.
     - Estos capítulos valen la pena ser leídos para brindarle una buena base:
