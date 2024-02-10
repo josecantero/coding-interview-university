@@ -257,7 +257,7 @@ Apreciaría su ayuda añadiendo fuentes siempre disponibles, publicas y gratuita
 - [ ] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Aprenda como alistarse para una entrevista de Ingeniería de Software con un entrevistador de Google.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+    - [ ][*] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - Un curso enfocado a una entrevista centrada en Python; que cubre estructuras de datos, algoritmos, plantillas de entrevistas y mucho más.
 
 ## Escoja un lenguaje para la entrevista
