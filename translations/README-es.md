@@ -255,7 +255,7 @@ Apreciaría su ayuda añadiendo fuentes siempre disponibles, publicas y gratuita
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 - [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed)(Alternativa: https://www.youtube.com/watch?app=desktop&v=1qw5ITr3k9E):
         - Aprenda como alistarse para una entrevista de Ingeniería de Software con un entrevistador de Google.
     - [ ][*] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - Un curso enfocado a una entrevista centrada en Python; que cubre estructuras de datos, algoritmos, plantillas de entrevistas y mucho más.
