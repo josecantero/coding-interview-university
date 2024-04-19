@@ -257,7 +257,7 @@ Apreciaría su ayuda añadiendo fuentes siempre disponibles, publicas y gratuita
 - [ ] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed)(Alternativa: https://www.youtube.com/watch?app=desktop&v=1qw5ITr3k9E):
         - Aprenda como alistarse para una entrevista de Ingeniería de Software con un entrevistador de Google.
-    - [ ][*] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+    - [ ][*] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)(descargado):
         - Un curso enfocado a una entrevista centrada en Python; que cubre estructuras de datos, algoritmos, plantillas de entrevistas y mucho más.
 
 ## Escoja un lenguaje para la entrevista
@@ -866,7 +866,7 @@ Los grafos pueden ser usados para representar muchos problemas en las Ciencias d
     - [ ] [[Review] Minimum Spanning Trees (playlist) in 4 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZObEi3Hf6lmyW-CBfs7nkOV)
 
 - Curso Completo de Coursera:
-    - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
+    - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome) (Descargado)
 
 - Implementaré:
     - [ ] DFS con lista de adyacencia (recursión)
